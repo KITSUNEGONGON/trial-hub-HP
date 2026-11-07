@@ -1548,7 +1548,7 @@ section {
   font-weight: 700;
   letter-spacing: 0.14em;
   text-transform: uppercase;
-  color: #cbd5e1;
+  color: #4ade80;
   border: 1px solid rgba(74,222,128,0.4);
   border-radius: 3px;
   padding: 0.35rem 0.9rem;
@@ -1560,7 +1560,7 @@ section {
   width: 7px;
   height: 7px;
   border-radius: 50%;
-  background: #cbd5e1;
+  background: #4ade80;
   animation: pulse-green 1.6s ease-in-out infinite;
 }
 
